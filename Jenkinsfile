@@ -6,12 +6,12 @@ pipline{
         echo 'building'
       }
     }
-    stage("build"){
+    stage("test"){
       steps{
         echo 'building'
       }
     }
-    stage("build"){
+    stage("work"){
       steps{
         echo 'building'
       }
